@@ -1,2 +1,4 @@
-GPS Data
-Historic Data
+# Ignore date folders
+
+GPS Data/
+Historic Data/
