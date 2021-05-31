@@ -6,10 +6,10 @@
 -----------------------------------------------------------------------------------------
 To install SEADS (Survey Efficacy and Data Summary) as a package onto your personal 
 computer, follow the steps below:
-1. Open 'SEADS.Rproj' (./SEADS/SEADS.Rproj)
+1. Open 'SEADS.Rproj' (./src/SEADS.Rproj)
 2. Open 'estimateSurveyQualtiy_template.R (./estimateSurveyQuality_template.R)
 3. Open 'Files' tab in the window on the lower right panel, open the 
-   and you should folder 'R' and you will see the R scripts which are in the SEADS 
+   and you should folder 'R' and you will see the R scripts which are in the src 
    folder.
 4. Run rm(list = ls()) to ensure that your environment is empty.
 5. Press 'ctrl+shift+B' to compile the SEADS package. This will import the 
