@@ -1,0 +1,3836 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2020-12-21T08:47:32Z</time>
+    <bounds maxlat="-33.931457893922925" maxlon="18.843773351982236" minlat="-33.935415241867304" minlon="18.840515557676554" />
+  </metadata>
+
+  <wpt lat="-33.934899000450969" lon="18.840515557676554">
+    <ele>175.565185546875</ele>
+    <name>00116</name>
+    <cmt>16-DEC-09 9:30:53</cmt>
+    <desc>16-DEC-09 9:30:53</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.932583248242736" lon="18.842776576057076">
+    <ele>228.1968994140625</ele>
+    <name>0012</name>
+    <cmt>17-DEC-09 12:23:43</cmt>
+    <desc>17-DEC-09 12:23:43</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.931457893922925" lon="18.843747619539499">
+    <ele>230.1195068359375</ele>
+    <name>0013</name>
+    <cmt>17-DEC-09 9:17:01</cmt>
+    <desc>17-DEC-09 9:17:01</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.932565730065107" lon="18.842801302671432">
+    <ele>227.95654296875</ele>
+    <name>0021</name>
+    <cmt>17-DEC-09 12:24:08</cmt>
+    <desc>17-DEC-09 12:24:08</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934862203896046" lon="18.840595101937652">
+    <ele>175.565185546875</ele>
+    <name>00215</name>
+    <cmt>16-DEC-09 9:31:17</cmt>
+    <desc>16-DEC-09 9:31:17</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93146158196032" lon="18.843750385567546">
+    <ele>230.6002197265625</ele>
+    <name>0023</name>
+    <cmt>17-DEC-09 9:17:04</cmt>
+    <desc>17-DEC-09 9:17:04</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.931462671607733" lon="18.843750804662704">
+    <ele>230.6002197265625</ele>
+    <name>0031</name>
+    <cmt>17-DEC-09 9:17:05</cmt>
+    <desc>17-DEC-09 9:17:05</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934847954660654" lon="18.840611698105931">
+    <ele>177.0072021484375</ele>
+    <name>00315</name>
+    <cmt>16-DEC-09 9:31:50</cmt>
+    <desc>16-DEC-09 9:31:50</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.931470885872841" lon="18.843773351982236">
+    <ele>230.1195068359375</ele>
+    <name>0041</name>
+    <cmt>17-DEC-09 9:17:23</cmt>
+    <desc>17-DEC-09 9:17:23</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934035412967205" lon="18.840866507962346">
+    <ele>183.0152587890625</ele>
+    <name>00415</name>
+    <cmt>16-DEC-09 9:53:33</cmt>
+    <desc>16-DEC-09 9:53:33</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.935344247147441" lon="18.840672802180052">
+    <ele>174.6038818359375</ele>
+    <name>00416</name>
+    <cmt>16-DEC-09 9:14:35</cmt>
+    <desc>16-DEC-09 9:14:35</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933448763564229" lon="18.843043791130185">
+    <ele>231.8017578125</ele>
+    <name>0051</name>
+    <cmt>17-DEC-09 11:14:56</cmt>
+    <desc>17-DEC-09 11:14:56</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93405863083899" lon="18.840885199606419">
+    <ele>183.255615234375</ele>
+    <name>00515</name>
+    <cmt>16-DEC-09 9:54:08</cmt>
+    <desc>16-DEC-09 9:54:08</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.935315329581499" lon="18.840660229325294">
+    <ele>174.84423828125</ele>
+    <name>00516</name>
+    <cmt>16-DEC-09 9:15:57</cmt>
+    <desc>16-DEC-09 9:15:57</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.932689363136888" lon="18.843157282099128">
+    <ele>237.5697021484375</ele>
+    <name>0061</name>
+    <cmt>17-DEC-09 12:15:07</cmt>
+    <desc>17-DEC-09 12:15:07</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934376556426287" lon="18.841799162328243">
+    <ele>197.67529296875</ele>
+    <name>00615</name>
+    <cmt>16-DEC-09 9:59:27</cmt>
+    <desc>16-DEC-09 9:59:27</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.935415241867304" lon="18.841333128511906">
+    <ele>182.53466796875</ele>
+    <name>00616</name>
+    <cmt>16-DEC-09 9:22:19</cmt>
+    <desc>16-DEC-09 9:22:19</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934364235028625" lon="18.841806873679161">
+    <ele>197.194580078125</ele>
+    <name>00715</name>
+    <cmt>16-DEC-09 9:59:34</cmt>
+    <desc>16-DEC-09 9:59:34</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934916434809566" lon="18.840621002018452">
+    <ele>177.0072021484375</ele>
+    <name>00716</name>
+    <cmt>16-DEC-09 9:31:43</cmt>
+    <desc>16-DEC-09 9:31:43</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.932709144428372" lon="18.843192989006639">
+    <ele>236.3681640625</ele>
+    <name>0072</name>
+    <cmt>17-DEC-09 12:17:35</cmt>
+    <desc>17-DEC-09 12:17:35</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934367671608925" lon="18.841840485110879">
+    <ele>197.67529296875</ele>
+    <name>00815</name>
+    <cmt>16-DEC-09 9:59:50</cmt>
+    <desc>16-DEC-09 9:59:50</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934914004057646" lon="18.840619493275881">
+    <ele>177.0072021484375</ele>
+    <name>00816</name>
+    <cmt>16-DEC-09 9:31:45</cmt>
+    <desc>16-DEC-09 9:31:45</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.932709647342563" lon="18.843195755034685">
+    <ele>236.8487548828125</ele>
+    <name>0082</name>
+    <cmt>17-DEC-09 12:17:37</cmt>
+    <desc>17-DEC-09 12:17:37</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934366749599576" lon="18.84185129776597">
+    <ele>197.194580078125</ele>
+    <name>00915</name>
+    <cmt>16-DEC-09 9:59:54</cmt>
+    <desc>16-DEC-09 9:59:54</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934914423152804" lon="18.840617816895247">
+    <ele>177.2474365234375</ele>
+    <name>00916</name>
+    <cmt>16-DEC-09 9:31:47</cmt>
+    <desc>16-DEC-09 9:31:47</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.932695565745234" lon="18.843156443908811">
+    <ele>236.1278076171875</ele>
+    <name>0092</name>
+    <cmt>17-DEC-09 12:19:10</cmt>
+    <desc>17-DEC-09 12:19:10</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934356439858675" lon="18.841855823993683">
+    <ele>198.156005859375</ele>
+    <name>01014</name>
+    <cmt>16-DEC-09 9:59:58</cmt>
+    <desc>16-DEC-09 9:59:58</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934467835351825" lon="18.841498084366322">
+    <ele>193.109130859375</ele>
+    <name>01015</name>
+    <cmt>16-DEC-09 9:49:58</cmt>
+    <desc>16-DEC-09 9:49:58</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934347135946155" lon="18.841866636648774">
+    <ele>199.8382568359375</ele>
+    <name>01114</name>
+    <cmt>16-DEC-09 10:00:01</cmt>
+    <desc>16-DEC-09 10:00:01</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934469595551491" lon="18.841819865629077">
+    <ele>197.67529296875</ele>
+    <name>01115</name>
+    <cmt>16-DEC-09 9:58:48</cmt>
+    <desc>16-DEC-09 9:58:48</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934340514242649" lon="18.841865379363298">
+    <ele>199.3575439453125</ele>
+    <name>01214</name>
+    <cmt>16-DEC-09 10:00:04</cmt>
+    <desc>16-DEC-09 10:00:04</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934453167021275" lon="18.841819111257792">
+    <ele>197.9156494140625</ele>
+    <name>01215</name>
+    <cmt>16-DEC-09 9:58:53</cmt>
+    <desc>16-DEC-09 9:58:53</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934329533949494" lon="18.841861439868808">
+    <ele>200.07861328125</ele>
+    <name>01314</name>
+    <cmt>16-DEC-09 10:00:09</cmt>
+    <desc>16-DEC-09 10:00:09</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934440175071359" lon="18.841818105429411">
+    <ele>198.396240234375</ele>
+    <name>01315</name>
+    <cmt>16-DEC-09 9:58:55</cmt>
+    <desc>16-DEC-09 9:58:55</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934349063783884" lon="18.841865211725235">
+    <ele>201.2801513671875</ele>
+    <name>01414</name>
+    <cmt>16-DEC-09 10:00:22</cmt>
+    <desc>16-DEC-09 10:00:22</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934436403214931" lon="18.841815590858459">
+    <ele>198.6365966796875</ele>
+    <name>01415</name>
+    <cmt>16-DEC-09 9:58:57</cmt>
+    <desc>16-DEC-09 9:58:57</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934353087097406" lon="18.841870659962296">
+    <ele>200.31884765625</ele>
+    <name>01514</name>
+    <cmt>16-DEC-09 10:00:32</cmt>
+    <desc>16-DEC-09 10:00:32</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934434894472361" lon="18.841810813173652">
+    <ele>197.9156494140625</ele>
+    <name>01515</name>
+    <cmt>16-DEC-09 9:58:58</cmt>
+    <desc>16-DEC-09 9:58:58</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934358954429626" lon="18.841877784579992">
+    <ele>200.07861328125</ele>
+    <name>01614</name>
+    <cmt>16-DEC-09 10:00:36</cmt>
+    <desc>16-DEC-09 10:00:36</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934427769854665" lon="18.841813746839762">
+    <ele>198.156005859375</ele>
+    <name>01615</name>
+    <cmt>16-DEC-09 9:58:59</cmt>
+    <desc>16-DEC-09 9:58:59</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934362977743149" lon="18.841869989410043">
+    <ele>199.597900390625</ele>
+    <name>01714</name>
+    <cmt>16-DEC-09 10:00:39</cmt>
+    <desc>16-DEC-09 10:00:39</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934429110959172" lon="18.841805448755622">
+    <ele>197.9156494140625</ele>
+    <name>01715</name>
+    <cmt>16-DEC-09 9:59:00</cmt>
+    <desc>16-DEC-09 9:59:00</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934367168694735" lon="18.841871833428741">
+    <ele>200.799560546875</ele>
+    <name>01814</name>
+    <cmt>16-DEC-09 10:00:42</cmt>
+    <desc>16-DEC-09 10:00:42</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934458112344146" lon="18.841826571151614">
+    <ele>197.67529296875</ele>
+    <name>01815</name>
+    <cmt>16-DEC-09 9:59:50</cmt>
+    <desc>16-DEC-09 9:59:50</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934376053512096" lon="18.84186739102006">
+    <ele>200.799560546875</ele>
+    <name>01914</name>
+    <cmt>16-DEC-09 10:00:45</cmt>
+    <desc>16-DEC-09 10:00:45</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934462638571858" lon="18.841829253360629">
+    <ele>197.194580078125</ele>
+    <name>01915</name>
+    <cmt>16-DEC-09 9:59:50</cmt>
+    <desc>16-DEC-09 9:59:50</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934386530891061" lon="18.841865127906203">
+    <ele>201.2801513671875</ele>
+    <name>02014</name>
+    <cmt>16-DEC-09 10:00:52</cmt>
+    <desc>16-DEC-09 10:00:52</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934468757361174" lon="18.841833109036088">
+    <ele>197.194580078125</ele>
+    <name>02015</name>
+    <cmt>16-DEC-09 9:59:51</cmt>
+    <desc>16-DEC-09 9:59:51</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934380579739809" lon="18.841857332736254">
+    <ele>200.799560546875</ele>
+    <name>02114</name>
+    <cmt>16-DEC-09 10:00:55</cmt>
+    <desc>16-DEC-09 10:00:55</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934467164799571" lon="18.841835623607039">
+    <ele>197.67529296875</ele>
+    <name>02115</name>
+    <cmt>16-DEC-09 9:59:52</cmt>
+    <desc>16-DEC-09 9:59:52</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934387620538473" lon="18.841863870620728">
+    <ele>200.5592041015625</ele>
+    <name>02214</name>
+    <cmt>16-DEC-09 10:01:00</cmt>
+    <desc>16-DEC-09 10:01:00</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934469763189554" lon="18.841837970539927">
+    <ele>197.9156494140625</ele>
+    <name>02215</name>
+    <cmt>16-DEC-09 9:59:52</cmt>
+    <desc>16-DEC-09 9:59:52</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934392398223281" lon="18.841875437647104">
+    <ele>200.799560546875</ele>
+    <name>02314</name>
+    <cmt>16-DEC-09 10:01:04</cmt>
+    <desc>16-DEC-09 10:01:04</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934471607208252" lon="18.841839982196689">
+    <ele>197.9156494140625</ele>
+    <name>02315</name>
+    <cmt>16-DEC-09 9:59:53</cmt>
+    <desc>16-DEC-09 9:59:53</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934398349374533" lon="18.841872168704867">
+    <ele>200.31884765625</ele>
+    <name>02414</name>
+    <cmt>16-DEC-09 10:01:06</cmt>
+    <desc>16-DEC-09 10:01:06</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934469847008586" lon="18.841841658577323">
+    <ele>197.9156494140625</ele>
+    <name>02415</name>
+    <cmt>16-DEC-09 9:59:53</cmt>
+    <desc>16-DEC-09 9:59:53</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934399606660008" lon="18.841861439868808">
+    <ele>200.5592041015625</ele>
+    <name>02514</name>
+    <cmt>16-DEC-09 10:01:09</cmt>
+    <desc>16-DEC-09 10:01:09</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934442941099405" lon="18.841834785416722">
+    <ele>198.156005859375</ele>
+    <name>02515</name>
+    <cmt>16-DEC-09 9:59:59</cmt>
+    <desc>16-DEC-09 9:59:59</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934402791783214" lon="18.841888178139925">
+    <ele>200.31884765625</ele>
+    <name>02614</name>
+    <cmt>16-DEC-09 10:01:21</cmt>
+    <desc>16-DEC-09 10:01:21</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934437492862344" lon="18.841846268624067">
+    <ele>198.156005859375</ele>
+    <name>02615</name>
+    <cmt>16-DEC-09 10:00:01</cmt>
+    <desc>16-DEC-09 10:00:01</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93440212123096" lon="18.841891195625067">
+    <ele>200.07861328125</ele>
+    <name>02714</name>
+    <cmt>16-DEC-09 10:01:24</cmt>
+    <desc>16-DEC-09 10:01:24</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934433301910758" lon="18.84184886701405">
+    <ele>198.6365966796875</ele>
+    <name>02715</name>
+    <cmt>16-DEC-09 10:00:03</cmt>
+    <desc>16-DEC-09 10:00:03</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934395331889391" lon="18.841896979138255">
+    <ele>199.8382568359375</ele>
+    <name>02814</name>
+    <cmt>16-DEC-09 10:01:25</cmt>
+    <desc>16-DEC-09 10:01:25</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934426512569189" lon="18.841845598071814">
+    <ele>198.396240234375</ele>
+    <name>02815</name>
+    <cmt>16-DEC-09 10:00:04</cmt>
+    <desc>16-DEC-09 10:00:04</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934379993006587" lon="18.841900080442429">
+    <ele>200.07861328125</ele>
+    <name>02914</name>
+    <cmt>16-DEC-09 10:01:29</cmt>
+    <desc>16-DEC-09 10:01:29</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934427183121443" lon="18.841853560879827">
+    <ele>198.876953125</ele>
+    <name>02915</name>
+    <cmt>16-DEC-09 10:00:04</cmt>
+    <desc>16-DEC-09 10:00:04</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934377897530794" lon="18.841890189796686">
+    <ele>199.597900390625</ele>
+    <name>03014</name>
+    <cmt>16-DEC-09 10:01:31</cmt>
+    <desc>16-DEC-09 10:01:31</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934427266940475" lon="18.841858673840761">
+    <ele>199.1171875</ele>
+    <name>03015</name>
+    <cmt>16-DEC-09 10:00:05</cmt>
+    <desc>16-DEC-09 10:00:05</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934373203665018" lon="18.841895386576653">
+    <ele>199.597900390625</ele>
+    <name>03114</name>
+    <cmt>16-DEC-09 10:01:31</cmt>
+    <desc>16-DEC-09 10:01:31</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934422824531794" lon="18.841855823993683">
+    <ele>199.1171875</ele>
+    <name>03115</name>
+    <cmt>16-DEC-09 10:00:06</cmt>
+    <desc>16-DEC-09 10:00:06</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93436842598021" lon="18.84190259501338">
+    <ele>200.31884765625</ele>
+    <name>03214</name>
+    <cmt>16-DEC-09 10:01:34</cmt>
+    <desc>16-DEC-09 10:01:34</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934427350759506" lon="18.841860853135586">
+    <ele>199.1171875</ele>
+    <name>03215</name>
+    <cmt>16-DEC-09 10:00:06</cmt>
+    <desc>16-DEC-09 10:00:06</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93435912206769" lon="18.8419050257653">
+    <ele>199.1171875</ele>
+    <name>03314</name>
+    <cmt>16-DEC-09 10:01:35</cmt>
+    <desc>16-DEC-09 10:01:35</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934431206434965" lon="18.841865882277489">
+    <ele>198.876953125</ele>
+    <name>03315</name>
+    <cmt>16-DEC-09 10:00:07</cmt>
+    <desc>16-DEC-09 10:00:07</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934384100139141" lon="18.84190259501338">
+    <ele>199.597900390625</ele>
+    <name>03414</name>
+    <cmt>16-DEC-09 10:01:38</cmt>
+    <desc>16-DEC-09 10:01:38</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934425422921777" lon="18.841864205896854">
+    <ele>199.1171875</ele>
+    <name>03415</name>
+    <cmt>16-DEC-09 10:00:08</cmt>
+    <desc>16-DEC-09 10:00:08</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934404803439975" lon="18.841906115412712">
+    <ele>199.597900390625</ele>
+    <name>03514</name>
+    <cmt>16-DEC-09 10:01:43</cmt>
+    <desc>16-DEC-09 10:01:43</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93442215397954" lon="18.841864624992013">
+    <ele>199.1171875</ele>
+    <name>03515</name>
+    <cmt>16-DEC-09 10:00:08</cmt>
+    <desc>16-DEC-09 10:00:08</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934404803439975" lon="18.841903600841761">
+    <ele>200.07861328125</ele>
+    <name>03614</name>
+    <cmt>16-DEC-09 10:01:45</cmt>
+    <desc>16-DEC-09 10:01:45</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934424752369523" lon="18.841863200068474">
+    <ele>198.6365966796875</ele>
+    <name>03615</name>
+    <cmt>16-DEC-09 10:00:18</cmt>
+    <desc>16-DEC-09 10:00:18</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934404887259007" lon="18.841902427375317">
+    <ele>199.3575439453125</ele>
+    <name>03714</name>
+    <cmt>16-DEC-09 10:01:46</cmt>
+    <desc>16-DEC-09 10:01:46</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93442215397954" lon="18.841864541172981">
+    <ele>198.6365966796875</ele>
+    <name>03715</name>
+    <cmt>16-DEC-09 10:00:18</cmt>
+    <desc>16-DEC-09 10:00:18</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934403881430626" lon="18.841902678832412">
+    <ele>199.3575439453125</ele>
+    <name>03814</name>
+    <cmt>16-DEC-09 10:01:46</cmt>
+    <desc>16-DEC-09 10:01:46</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934419136494398" lon="18.841866469010711">
+    <ele>198.6365966796875</ele>
+    <name>03815</name>
+    <cmt>16-DEC-09 10:00:19</cmt>
+    <desc>16-DEC-09 10:00:19</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934403629973531" lon="18.841902846470475">
+    <ele>199.8382568359375</ele>
+    <name>03914</name>
+    <cmt>16-DEC-09 10:01:47</cmt>
+    <desc>16-DEC-09 10:01:47</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934427434578538" lon="18.841887675225735">
+    <ele>199.8382568359375</ele>
+    <name>03915</name>
+    <cmt>16-DEC-09 10:00:26</cmt>
+    <desc>16-DEC-09 10:00:26</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934402707964182" lon="18.841926567256451">
+    <ele>200.5592041015625</ele>
+    <name>04014</name>
+    <cmt>16-DEC-09 10:02:12</cmt>
+    <desc>16-DEC-09 10:02:12</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93442559055984" lon="18.841886501759291">
+    <ele>199.1171875</ele>
+    <name>04015</name>
+    <cmt>16-DEC-09 10:00:26</cmt>
+    <desc>16-DEC-09 10:00:26</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934391308575869" lon="18.841942241415381">
+    <ele>200.5592041015625</ele>
+    <name>04114</name>
+    <cmt>16-DEC-09 10:03:04</cmt>
+    <desc>16-DEC-09 10:03:04</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934424836188555" lon="18.841886166483164">
+    <ele>199.3575439453125</ele>
+    <name>04115</name>
+    <cmt>16-DEC-09 10:00:27</cmt>
+    <desc>16-DEC-09 10:00:27</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934391979128122" lon="18.841943666338921">
+    <ele>200.799560546875</ele>
+    <name>04213</name>
+    <cmt>16-DEC-09 10:03:05</cmt>
+    <desc>16-DEC-09 10:03:05</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934425506740808" lon="18.841892285272479">
+    <ele>199.3575439453125</ele>
+    <name>04214</name>
+    <cmt>16-DEC-09 10:00:27</cmt>
+    <desc>16-DEC-09 10:00:27</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934383010491729" lon="18.841944588348269">
+    <ele>200.799560546875</ele>
+    <name>04313</name>
+    <cmt>16-DEC-09 10:03:08</cmt>
+    <desc>16-DEC-09 10:03:08</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934422405436635" lon="18.841895135119557">
+    <ele>199.597900390625</ele>
+    <name>04314</name>
+    <cmt>16-DEC-09 10:00:28</cmt>
+    <desc>16-DEC-09 10:00:28</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934327606111765" lon="18.842015247792006">
+    <ele>204.1641845703125</ele>
+    <name>04413</name>
+    <cmt>16-DEC-09 10:07:05</cmt>
+    <desc>16-DEC-09 10:07:05</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934420393779874" lon="18.841889603063464">
+    <ele>199.597900390625</ele>
+    <name>04414</name>
+    <cmt>16-DEC-09 10:00:29</cmt>
+    <desc>16-DEC-09 10:00:29</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934314530342817" lon="18.841979121789336">
+    <ele>204.1641845703125</ele>
+    <name>04513</name>
+    <cmt>16-DEC-09 10:07:40</cmt>
+    <desc>16-DEC-09 10:07:40</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934429530054331" lon="18.841893039643764">
+    <ele>200.31884765625</ele>
+    <name>04514</name>
+    <cmt>16-DEC-09 10:00:31</cmt>
+    <desc>16-DEC-09 10:00:31</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934291396290064" lon="18.84183319285512">
+    <ele>199.8382568359375</ele>
+    <name>04613</name>
+    <cmt>16-DEC-09 10:08:54</cmt>
+    <desc>16-DEC-09 10:08:54</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934446964412928" lon="18.841880382969975">
+    <ele>199.3575439453125</ele>
+    <name>04614</name>
+    <cmt>16-DEC-09 10:00:34</cmt>
+    <desc>16-DEC-09 10:00:34</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934303969144821" lon="18.841830091550946">
+    <ele>199.597900390625</ele>
+    <name>04713</name>
+    <cmt>16-DEC-09 10:09:10</cmt>
+    <desc>16-DEC-09 10:09:10</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934448389336467" lon="18.841894464567304">
+    <ele>199.3575439453125</ele>
+    <name>04714</name>
+    <cmt>16-DEC-09 10:00:36</cmt>
+    <desc>16-DEC-09 10:00:36</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934310339391232" lon="18.841836713254452">
+    <ele>199.597900390625</ele>
+    <name>04813</name>
+    <cmt>16-DEC-09 10:09:11</cmt>
+    <desc>16-DEC-09 10:09:11</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934468002989888" lon="18.841898152604699">
+    <ele>199.3575439453125</ele>
+    <name>04814</name>
+    <cmt>16-DEC-09 10:00:43</cmt>
+    <desc>16-DEC-09 10:00:43</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93431905657053" lon="18.841833276674151">
+    <ele>199.8382568359375</ele>
+    <name>04913</name>
+    <cmt>16-DEC-09 10:09:12</cmt>
+    <desc>16-DEC-09 10:09:12</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934461884200573" lon="18.841914497315884">
+    <ele>199.3575439453125</ele>
+    <name>04914</name>
+    <cmt>16-DEC-09 10:00:47</cmt>
+    <desc>16-DEC-09 10:00:47</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934306902810931" lon="18.841823218390346">
+    <ele>200.31884765625</ele>
+    <name>05013</name>
+    <cmt>16-DEC-09 10:09:14</cmt>
+    <desc>16-DEC-09 10:09:14</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934436067938805" lon="18.841908713802695">
+    <ele>199.597900390625</ele>
+    <name>05014</name>
+    <cmt>16-DEC-09 10:00:56</cmt>
+    <desc>16-DEC-09 10:00:56</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934301538392901" lon="18.841819949448109">
+    <ele>199.3575439453125</ele>
+    <name>05113</name>
+    <cmt>16-DEC-09 10:09:15</cmt>
+    <desc>16-DEC-09 10:09:15</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93424772657454" lon="18.841856662184">
+    <ele>200.5592041015625</ele>
+    <name>05114</name>
+    <cmt>16-DEC-09 10:09:10</cmt>
+    <desc>16-DEC-09 10:09:10</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934303801506758" lon="18.84181852452457">
+    <ele>199.1171875</ele>
+    <name>05212</name>
+    <cmt>16-DEC-09 10:09:16</cmt>
+    <desc>16-DEC-09 10:09:16</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934253845363855" lon="18.841853560879827">
+    <ele>201.039794921875</ele>
+    <name>05213</name>
+    <cmt>16-DEC-09 10:09:13</cmt>
+    <desc>16-DEC-09 10:09:13</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934299945831299" lon="18.841815004125237">
+    <ele>199.8382568359375</ele>
+    <name>05312</name>
+    <cmt>16-DEC-09 10:09:19</cmt>
+    <desc>16-DEC-09 10:09:19</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934226436540484" lon="18.841834785416722">
+    <ele>200.5592041015625</ele>
+    <name>05313</name>
+    <cmt>16-DEC-09 10:09:28</cmt>
+    <desc>16-DEC-09 10:09:28</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934309920296073" lon="18.841802012175322">
+    <ele>199.1171875</ele>
+    <name>05412</name>
+    <cmt>16-DEC-09 10:09:24</cmt>
+    <desc>16-DEC-09 10:09:24</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934222245588899" lon="18.841834282502532">
+    <ele>200.07861328125</ele>
+    <name>05413</name>
+    <cmt>16-DEC-09 10:09:30</cmt>
+    <desc>16-DEC-09 10:09:30</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934309082105756" lon="18.841801341623068">
+    <ele>198.876953125</ele>
+    <name>05512</name>
+    <cmt>16-DEC-09 10:09:25</cmt>
+    <desc>16-DEC-09 10:09:25</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933992413803935" lon="18.841929249465466">
+    <ele>204.1641845703125</ele>
+    <name>05513</name>
+    <cmt>16-DEC-09 10:31:46</cmt>
+    <desc>16-DEC-09 10:31:46</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934308663010597" lon="18.841801593080163">
+    <ele>198.6365966796875</ele>
+    <name>05612</name>
+    <cmt>16-DEC-09 10:09:27</cmt>
+    <desc>16-DEC-09 10:09:27</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933966932818294" lon="18.841918772086501">
+    <ele>203.6834716796875</ele>
+    <name>05613</name>
+    <cmt>16-DEC-09 10:32:04</cmt>
+    <desc>16-DEC-09 10:32:04</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933860398828983" lon="18.841321729123592">
+    <ele>191.1865234375</ele>
+    <name>05712</name>
+    <cmt>16-DEC-09 10:20:29</cmt>
+    <desc>16-DEC-09 10:20:29</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933970453217626" lon="18.84188893251121">
+    <ele>203.2027587890625</ele>
+    <name>05713</name>
+    <cmt>16-DEC-09 10:32:11</cmt>
+    <desc>16-DEC-09 10:32:11</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933859895914793" lon="18.841322651132941">
+    <ele>191.4267578125</ele>
+    <name>05812</name>
+    <cmt>16-DEC-09 10:20:30</cmt>
+    <desc>16-DEC-09 10:20:30</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93397020176053" lon="18.84188893251121">
+    <ele>202.96240234375</ele>
+    <name>05813</name>
+    <cmt>16-DEC-09 10:32:12</cmt>
+    <desc>16-DEC-09 10:32:12</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933860985562205" lon="18.841321812942624">
+    <ele>191.1865234375</ele>
+    <name>05912</name>
+    <cmt>16-DEC-09 10:20:33</cmt>
+    <desc>16-DEC-09 10:20:33</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933764593675733" lon="18.84146036580205">
+    <ele>196.2333984375</ele>
+    <name>05913</name>
+    <cmt>16-DEC-09 10:34:11</cmt>
+    <desc>16-DEC-09 10:34:11</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934108670800924" lon="18.841630015522242">
+    <ele>196.954345703125</ele>
+    <name>06012</name>
+    <cmt>16-DEC-09 10:22:15</cmt>
+    <desc>16-DEC-09 10:22:15</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933722265064716" lon="18.841488026082516">
+    <ele>196.4736328125</ele>
+    <name>06013</name>
+    <cmt>16-DEC-09 10:34:18</cmt>
+    <desc>16-DEC-09 10:34:18</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.934180168434978" lon="18.841994209215045">
+    <ele>204.1641845703125</ele>
+    <name>06112</name>
+    <cmt>16-DEC-09 10:24:03</cmt>
+    <desc>16-DEC-09 10:24:03</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933721594512463" lon="18.841478386893868">
+    <ele>196.2333984375</ele>
+    <name>06113</name>
+    <cmt>16-DEC-09 10:34:20</cmt>
+    <desc>16-DEC-09 10:34:20</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933906499296427" lon="18.841499593108892">
+    <ele>196.7139892578125</ele>
+    <name>06212</name>
+    <cmt>16-DEC-09 10:33:41</cmt>
+    <desc>16-DEC-09 10:33:41</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933720672503114" lon="18.841468077152967">
+    <ele>195.752685546875</ele>
+    <name>06213</name>
+    <cmt>16-DEC-09 10:34:21</cmt>
+    <desc>16-DEC-09 10:34:21</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933889316394925" lon="18.841503281146288">
+    <ele>196.7139892578125</ele>
+    <name>06312</name>
+    <cmt>16-DEC-09 10:33:49</cmt>
+    <desc>16-DEC-09 10:33:49</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933723857626319" lon="18.841465394943953">
+    <ele>195.752685546875</ele>
+    <name>06313</name>
+    <cmt>16-DEC-09 10:34:21</cmt>
+    <desc>16-DEC-09 10:34:21</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933883532881737" lon="18.84149556979537">
+    <ele>196.7139892578125</ele>
+    <name>06412</name>
+    <cmt>16-DEC-09 10:33:49</cmt>
+    <desc>16-DEC-09 10:33:49</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933725114911795" lon="18.841462628915906">
+    <ele>195.03173828125</ele>
+    <name>06413</name>
+    <cmt>16-DEC-09 10:34:22</cmt>
+    <desc>16-DEC-09 10:34:22</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933880683034658" lon="18.84149263612926">
+    <ele>195.5123291015625</ele>
+    <name>06512</name>
+    <cmt>16-DEC-09 10:33:50</cmt>
+    <desc>16-DEC-09 10:33:50</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933727294206619" lon="18.841461455449462">
+    <ele>195.752685546875</ele>
+    <name>06513</name>
+    <cmt>16-DEC-09 10:34:23</cmt>
+    <desc>16-DEC-09 10:34:23</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933882778510451" lon="18.841492384672165">
+    <ele>195.5123291015625</ele>
+    <name>06612</name>
+    <cmt>16-DEC-09 10:33:51</cmt>
+    <desc>16-DEC-09 10:33:51</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933726623654366" lon="18.841459024697542">
+    <ele>195.752685546875</ele>
+    <name>06613</name>
+    <cmt>16-DEC-09 10:34:23</cmt>
+    <desc>16-DEC-09 10:34:23</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933888981118798" lon="18.841492971405387">
+    <ele>197.4349365234375</ele>
+    <name>06712</name>
+    <cmt>16-DEC-09 10:33:52</cmt>
+    <desc>16-DEC-09 10:33:52</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933732574805617" lon="18.841468915343285">
+    <ele>196.2333984375</ele>
+    <name>06713</name>
+    <cmt>16-DEC-09 10:34:26</cmt>
+    <desc>16-DEC-09 10:34:26</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933890154585242" lon="18.841493558138609">
+    <ele>197.4349365234375</ele>
+    <name>06812</name>
+    <cmt>16-DEC-09 10:33:53</cmt>
+    <desc>16-DEC-09 10:33:53</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933709524571896" lon="18.841464389115572">
+    <ele>195.5123291015625</ele>
+    <name>06813</name>
+    <cmt>16-DEC-09 10:34:31</cmt>
+    <desc>16-DEC-09 10:34:31</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933889651671052" lon="18.841488445177674">
+    <ele>195.9930419921875</ele>
+    <name>06912</name>
+    <cmt>16-DEC-09 10:33:53</cmt>
+    <desc>16-DEC-09 10:33:53</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933707848191261" lon="18.841463886201382">
+    <ele>196.4736328125</ele>
+    <name>06913</name>
+    <cmt>16-DEC-09 10:34:33</cmt>
+    <desc>16-DEC-09 10:34:33</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933891076594591" lon="18.841482745483518">
+    <ele>196.7139892578125</ele>
+    <name>07012</name>
+    <cmt>16-DEC-09 10:33:54</cmt>
+    <desc>16-DEC-09 10:33:54</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933704663068056" lon="18.841461203992367">
+    <ele>195.27197265625</ele>
+    <name>07013</name>
+    <cmt>16-DEC-09 10:34:33</cmt>
+    <desc>16-DEC-09 10:34:33</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933815136551857" lon="18.841362381353974">
+    <ele>194.310791015625</ele>
+    <name>07112</name>
+    <cmt>16-DEC-09 10:34:48</cmt>
+    <desc>16-DEC-09 10:34:48</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.9337023999542" lon="18.84146086871624">
+    <ele>195.27197265625</ele>
+    <name>07113</name>
+    <cmt>16-DEC-09 10:34:34</cmt>
+    <desc>16-DEC-09 10:34:34</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933814046904445" lon="18.841360453516245">
+    <ele>194.310791015625</ele>
+    <name>07212</name>
+    <cmt>16-DEC-09 10:34:49</cmt>
+    <desc>16-DEC-09 10:34:49</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933703824877739" lon="18.841460114344954">
+    <ele>195.5123291015625</ele>
+    <name>07213</name>
+    <cmt>16-DEC-09 10:34:34</cmt>
+    <desc>16-DEC-09 10:34:34</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933814968913794" lon="18.841355172917247">
+    <ele>193.5897216796875</ele>
+    <name>07312</name>
+    <cmt>16-DEC-09 10:34:53</cmt>
+    <desc>16-DEC-09 10:34:53</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933703741058707" lon="18.841459779068828">
+    <ele>195.5123291015625</ele>
+    <name>07313</name>
+    <cmt>16-DEC-09 10:34:35</cmt>
+    <desc>16-DEC-09 10:34:35</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933812035247684" lon="18.841352323070168">
+    <ele>193.830078125</ele>
+    <name>07412</name>
+    <cmt>16-DEC-09 10:34:56</cmt>
+    <desc>16-DEC-09 10:34:56</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933693431317806" lon="18.84147260338068">
+    <ele>196.7139892578125</ele>
+    <name>07413</name>
+    <cmt>16-DEC-09 10:34:38</cmt>
+    <desc>16-DEC-09 10:34:38</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933815136551857" lon="18.841344527900219">
+    <ele>193.349365234375</ele>
+    <name>07512</name>
+    <cmt>16-DEC-09 10:35:00</cmt>
+    <desc>16-DEC-09 10:35:00</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933690581470728" lon="18.841465562582016">
+    <ele>196.7139892578125</ele>
+    <name>07513</name>
+    <cmt>16-DEC-09 10:34:40</cmt>
+    <desc>16-DEC-09 10:34:40</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933815555647016" lon="18.841344192624092">
+    <ele>192.8687744140625</ele>
+    <name>07612</name>
+    <cmt>16-DEC-09 10:35:00</cmt>
+    <desc>16-DEC-09 10:35:00</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933692425489426" lon="18.841461203992367">
+    <ele>195.5123291015625</ele>
+    <name>07613</name>
+    <cmt>16-DEC-09 10:34:40</cmt>
+    <desc>16-DEC-09 10:34:40</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933789571747184" lon="18.841311670839787">
+    <ele>193.109130859375</ele>
+    <name>07712</name>
+    <cmt>16-DEC-09 10:35:13</cmt>
+    <desc>16-DEC-09 10:35:13</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933693179860711" lon="18.841457264497876">
+    <ele>195.5123291015625</ele>
+    <name>07713</name>
+    <cmt>16-DEC-09 10:34:41</cmt>
+    <desc>16-DEC-09 10:34:41</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933735592290759" lon="18.841819446533918">
+    <ele>205.12548828125</ele>
+    <name>07812</name>
+    <cmt>16-DEC-09 10:46:21</cmt>
+    <desc>16-DEC-09 10:46:21</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933694940060377" lon="18.84145743213594">
+    <ele>196.4736328125</ele>
+    <name>07813</name>
+    <cmt>16-DEC-09 10:34:42</cmt>
+    <desc>16-DEC-09 10:34:42</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933853609487414" lon="18.841965710744262">
+    <ele>207.52880859375</ele>
+    <name>07912</name>
+    <cmt>16-DEC-09 10:48:31</cmt>
+    <desc>16-DEC-09 10:48:31</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933689743280411" lon="18.841452402994037">
+    <ele>196.4736328125</ele>
+    <name>07913</name>
+    <cmt>16-DEC-09 10:34:43</cmt>
+    <desc>16-DEC-09 10:34:43</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933873809874058" lon="18.842004016041756">
+    <ele>207.7691650390625</ele>
+    <name>08012</name>
+    <cmt>16-DEC-09 10:49:19</cmt>
+    <desc>16-DEC-09 10:49:19</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933689575642347" lon="18.841449385508895">
+    <ele>195.5123291015625</ele>
+    <name>08013</name>
+    <cmt>16-DEC-09 10:34:43</cmt>
+    <desc>16-DEC-09 10:34:43</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933879425749183" lon="18.8420051895082">
+    <ele>208.249755859375</ele>
+    <name>08112</name>
+    <cmt>16-DEC-09 10:49:23</cmt>
+    <desc>16-DEC-09 10:49:23</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93368873745203" lon="18.841446535661817">
+    <ele>195.752685546875</ele>
+    <name>08113</name>
+    <cmt>16-DEC-09 10:34:44</cmt>
+    <desc>16-DEC-09 10:34:44</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933891579508781" lon="18.842015583068132">
+    <ele>208.4901123046875</ele>
+    <name>08213</name>
+    <cmt>16-DEC-09 10:49:35</cmt>
+    <desc>16-DEC-09 10:49:35</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933688318356872" lon="18.841445781290531">
+    <ele>195.752685546875</ele>
+    <name>08214</name>
+    <cmt>16-DEC-09 10:34:45</cmt>
+    <desc>16-DEC-09 10:34:45</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933892669156194" lon="18.842014158144593">
+    <ele>208.4901123046875</ele>
+    <name>08313</name>
+    <cmt>16-DEC-09 10:49:35</cmt>
+    <desc>16-DEC-09 10:49:35</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933695107698441" lon="18.841442512348294">
+    <ele>195.752685546875</ele>
+    <name>08314</name>
+    <cmt>16-DEC-09 10:34:45</cmt>
+    <desc>16-DEC-09 10:34:45</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933892752975225" lon="18.842013403773308">
+    <ele>209.2110595703125</ele>
+    <name>08413</name>
+    <cmt>16-DEC-09 10:49:36</cmt>
+    <desc>16-DEC-09 10:49:36</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933698376640677" lon="18.841440919786692">
+    <ele>195.03173828125</ele>
+    <name>08414</name>
+    <cmt>16-DEC-09 10:34:46</cmt>
+    <desc>16-DEC-09 10:34:46</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933911947533488" lon="18.842040225863457">
+    <ele>210.4127197265625</ele>
+    <name>08513</name>
+    <cmt>16-DEC-09 10:50:04</cmt>
+    <desc>16-DEC-09 10:50:04</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933698209002614" lon="18.841438656672835">
+    <ele>195.03173828125</ele>
+    <name>08514</name>
+    <cmt>16-DEC-09 10:34:46</cmt>
+    <desc>16-DEC-09 10:34:46</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933844976127148" lon="18.842312218621373">
+    <ele>216.4207763671875</ele>
+    <name>08613</name>
+    <cmt>16-DEC-09 10:56:45</cmt>
+    <desc>16-DEC-09 10:56:45</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933700053021312" lon="18.841435890644789">
+    <ele>195.5123291015625</ele>
+    <name>08614</name>
+    <cmt>16-DEC-09 10:34:47</cmt>
+    <desc>16-DEC-09 10:34:47</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933844808489084" lon="18.8423125538975">
+    <ele>215.940185546875</ele>
+    <name>08713</name>
+    <cmt>16-DEC-09 10:56:46</cmt>
+    <desc>16-DEC-09 10:56:46</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933699885383248" lon="18.841435136273503">
+    <ele>195.5123291015625</ele>
+    <name>08714</name>
+    <cmt>16-DEC-09 10:34:47</cmt>
+    <desc>16-DEC-09 10:34:47</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933844892308116" lon="18.842312637716532">
+    <ele>215.940185546875</ele>
+    <name>08813</name>
+    <cmt>16-DEC-09 10:56:47</cmt>
+    <desc>16-DEC-09 10:56:47</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933700136840343" lon="18.841434046626091">
+    <ele>195.752685546875</ele>
+    <name>08814</name>
+    <cmt>16-DEC-09 10:34:48</cmt>
+    <desc>16-DEC-09 10:34:48</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933839192613959" lon="18.842304423451424">
+    <ele>215.4595947265625</ele>
+    <name>08913</name>
+    <cmt>16-DEC-09 10:56:54</cmt>
+    <desc>16-DEC-09 10:56:54</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933702567592263" lon="18.841436980292201">
+    <ele>195.752685546875</ele>
+    <name>08914</name>
+    <cmt>16-DEC-09 10:34:48</cmt>
+    <desc>16-DEC-09 10:34:48</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933867020532489" lon="18.842270979657769">
+    <ele>214.2579345703125</ele>
+    <name>09013</name>
+    <cmt>16-DEC-09 10:57:15</cmt>
+    <desc>16-DEC-09 10:57:15</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933703908696771" lon="18.841438237577677">
+    <ele>195.5123291015625</ele>
+    <name>09014</name>
+    <cmt>16-DEC-09 10:34:49</cmt>
+    <desc>16-DEC-09 10:34:49</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933869786560535" lon="18.842275505885482">
+    <ele>214.738525390625</ele>
+    <name>09113</name>
+    <cmt>16-DEC-09 10:57:16</cmt>
+    <desc>16-DEC-09 10:57:16</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933704076334834" lon="18.841439746320248">
+    <ele>195.5123291015625</ele>
+    <name>09114</name>
+    <cmt>16-DEC-09 10:34:49</cmt>
+    <desc>16-DEC-09 10:34:49</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933891830965877" lon="18.842262262478471">
+    <ele>214.4981689453125</ele>
+    <name>09213</name>
+    <cmt>16-DEC-09 10:57:30</cmt>
+    <desc>16-DEC-09 10:57:30</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933704411610961" lon="18.841442260891199">
+    <ele>195.27197265625</ele>
+    <name>09214</name>
+    <cmt>16-DEC-09 10:34:50</cmt>
+    <desc>16-DEC-09 10:34:50</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933890908956528" lon="18.84226125665009">
+    <ele>213.7772216796875</ele>
+    <name>09313</name>
+    <cmt>16-DEC-09 10:57:31</cmt>
+    <desc>16-DEC-09 10:57:31</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933706423267722" lon="18.841440165415406">
+    <ele>195.27197265625</ele>
+    <name>09314</name>
+    <cmt>16-DEC-09 10:34:50</cmt>
+    <desc>16-DEC-09 10:34:50</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933890908956528" lon="18.842263519763947">
+    <ele>213.7772216796875</ele>
+    <name>09413</name>
+    <cmt>16-DEC-09 10:57:31</cmt>
+    <desc>16-DEC-09 10:57:31</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933707177639008" lon="18.841439913958311">
+    <ele>195.752685546875</ele>
+    <name>09414</name>
+    <cmt>16-DEC-09 10:34:51</cmt>
+    <desc>16-DEC-09 10:34:51</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933711452409625" lon="18.841857248917222">
+    <ele>205.12548828125</ele>
+    <name>09513</name>
+    <cmt>16-DEC-09 11:00:21</cmt>
+    <desc>16-DEC-09 11:00:21</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933708099648356" lon="18.841439494863153">
+    <ele>195.752685546875</ele>
+    <name>09514</name>
+    <cmt>16-DEC-09 10:34:51</cmt>
+    <desc>16-DEC-09 10:34:51</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93365697003901" lon="18.841812573373318">
+    <ele>209.6917724609375</ele>
+    <name>09613</name>
+    <cmt>16-DEC-09 11:01:00</cmt>
+    <desc>16-DEC-09 11:01:00</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933707261458039" lon="18.841443434357643">
+    <ele>195.752685546875</ele>
+    <name>09614</name>
+    <cmt>16-DEC-09 10:34:51</cmt>
+    <desc>16-DEC-09 10:34:51</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.9333984721452" lon="18.841967387124896">
+    <ele>210.4127197265625</ele>
+    <name>09713</name>
+    <cmt>16-DEC-09 11:11:06</cmt>
+    <desc>16-DEC-09 11:11:06</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933707345277071" lon="18.841444943100214">
+    <ele>195.752685546875</ele>
+    <name>09714</name>
+    <cmt>16-DEC-09 10:34:52</cmt>
+    <desc>16-DEC-09 10:34:52</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93312631174922" lon="18.842155309394002">
+    <ele>214.738525390625</ele>
+    <name>09813</name>
+    <cmt>16-DEC-09 11:29:05</cmt>
+    <desc>16-DEC-09 11:29:05</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933710027486086" lon="18.841439243406057">
+    <ele>195.5123291015625</ele>
+    <name>09814</name>
+    <cmt>16-DEC-09 10:34:52</cmt>
+    <desc>16-DEC-09 10:34:52</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933711033314466" lon="18.841437567025423">
+    <ele>195.5123291015625</ele>
+    <name>09913</name>
+    <cmt>16-DEC-09 10:34:53</cmt>
+    <desc>16-DEC-09 10:34:53</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933711620047688" lon="18.841434884816408">
+    <ele>195.5123291015625</ele>
+    <name>10021</name>
+    <cmt>16-DEC-09 10:34:53</cmt>
+    <desc>16-DEC-09 10:34:53</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933712290599942" lon="18.841432956978679">
+    <ele>195.5123291015625</ele>
+    <name>10113</name>
+    <cmt>16-DEC-09 10:34:54</cmt>
+    <desc>16-DEC-09 10:34:54</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933712793514132" lon="18.84143153205514">
+    <ele>195.5123291015625</ele>
+    <name>10213</name>
+    <cmt>16-DEC-09 10:34:54</cmt>
+    <desc>16-DEC-09 10:34:54</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933715978637338" lon="18.841437818482518">
+    <ele>194.7913818359375</ele>
+    <name>10313</name>
+    <cmt>16-DEC-09 10:34:54</cmt>
+    <desc>16-DEC-09 10:34:54</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933717403560877" lon="18.841439411044121">
+    <ele>194.7913818359375</ele>
+    <name>10413</name>
+    <cmt>16-DEC-09 10:34:55</cmt>
+    <desc>16-DEC-09 10:34:55</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933433843776584" lon="18.841911815106869">
+    <ele>208.4901123046875</ele>
+    <name>10513</name>
+    <cmt>16-DEC-09 11:10:56</cmt>
+    <desc>16-DEC-09 11:10:56</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933429820463061" lon="18.841910474002361">
+    <ele>209.2110595703125</ele>
+    <name>10613</name>
+    <cmt>16-DEC-09 11:10:57</cmt>
+    <desc>16-DEC-09 11:10:57</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933429485186934" lon="18.841909468173981">
+    <ele>208.4901123046875</ele>
+    <name>10713</name>
+    <cmt>16-DEC-09 11:10:59</cmt>
+    <desc>16-DEC-09 11:10:59</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93374246545136" lon="18.842362007126212">
+    <ele>217.141845703125</ele>
+    <name>10812</name>
+    <cmt>16-DEC-09 11:13:10</cmt>
+    <desc>16-DEC-09 11:13:10</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933830559253693" lon="18.842527801170945">
+    <ele>220.02587890625</ele>
+    <name>10912</name>
+    <cmt>16-DEC-09 11:14:06</cmt>
+    <desc>16-DEC-09 11:14:06</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933832067996264" lon="18.842538362368941">
+    <ele>220.746826171875</ele>
+    <name>11012</name>
+    <cmt>16-DEC-09 11:14:14</cmt>
+    <desc>16-DEC-09 11:14:14</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.93383433111012" lon="18.842563591897488">
+    <ele>221.7081298828125</ele>
+    <name>11112</name>
+    <cmt>16-DEC-09 11:14:25</cmt>
+    <desc>16-DEC-09 11:14:25</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933832906186581" lon="18.842564346268773">
+    <ele>221.4677734375</ele>
+    <name>11212</name>
+    <cmt>16-DEC-09 11:14:26</cmt>
+    <desc>16-DEC-09 11:14:26</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933836678043008" lon="18.842562334612012">
+    <ele>221.4677734375</ele>
+    <name>11312</name>
+    <cmt>16-DEC-09 11:14:27</cmt>
+    <desc>16-DEC-09 11:14:27</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933835672214627" lon="18.842562083154917">
+    <ele>221.2275390625</ele>
+    <name>11412</name>
+    <cmt>16-DEC-09 11:14:28</cmt>
+    <desc>16-DEC-09 11:14:28</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933839108794928" lon="18.842558730393648">
+    <ele>221.4677734375</ele>
+    <name>11512</name>
+    <cmt>16-DEC-09 11:14:29</cmt>
+    <desc>16-DEC-09 11:14:29</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933835923671722" lon="18.84256275370717">
+    <ele>221.948486328125</ele>
+    <name>11612</name>
+    <cmt>16-DEC-09 11:14:31</cmt>
+    <desc>16-DEC-09 11:14:31</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933821171522141" lon="18.842554120346904">
+    <ele>221.7081298828125</ele>
+    <name>11712</name>
+    <cmt>16-DEC-09 11:14:33</cmt>
+    <desc>16-DEC-09 11:14:33</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933829637244344" lon="18.842560742050409">
+    <ele>221.2275390625</ele>
+    <name>11812</name>
+    <cmt>16-DEC-09 11:14:33</cmt>
+    <desc>16-DEC-09 11:14:33</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.933842461556196" lon="18.842571638524532">
+    <ele>220.9871826171875</ele>
+    <name>11912</name>
+    <cmt>16-DEC-09 11:14:40</cmt>
+    <desc>16-DEC-09 11:14:40</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>

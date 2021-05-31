@@ -1,0 +1,13 @@
+Package: SEADS
+Type: Package
+Title: Estimates Survey Efficacy and Summarizes Invasive Acacia Data
+Version: 0.1.0
+Author: Nicholas Salonen
+Maintainer: Nicholas Salonen <nic.salonen@gmail.com>
+Description: The functions in this package analyse CSV/GPX data collected during surveys 
+    conducted by SANBI relating to invasive acacia data. These functions estimate the level
+    of efficacy of a given survey and also summarize historic data for invasive plant species.
+Depends: plotKML, plot3D, ggplot2, ggmap, gplots, sp, scales, RColorBrewer, lubridate
+License: GPL
+Encoding: UTF-8
+LazyData: true
